@@ -1,4 +1,4 @@
-# 🚀 DSA Solutions (GFG + LeetCode)
+# 🚀 DSA Solutions
 
 Welcome to my **Data Structures & Algorithms repository**!  
 This repo contains solutions to popular problems from **GeeksforGeeks (GFG)** and **LeetCode**, implemented in **Java**.
